@@ -1,9 +1,10 @@
 import streamlit as st
+import yfinance as yf
+
 import pandas as pd
 import math
 from pathlib import Path
 
-import yfinance as yf
 import matplotlib.pyplot as plt
 import time
 
